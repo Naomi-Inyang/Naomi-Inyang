@@ -10,24 +10,16 @@
 - Retrieval-Augmented Generation (**RAG**), Conversational AI
 - **LangChain**, Prompt Engineering, Function Calling in LLMs
 - Predictive Modeling, Deep Learning, Time-Series Forecasting
-- Speech Recognition & Computer Vision
 
 ### 💻 Software Development
 - **Python**, **JavaScript**, **Java**
 - Backend Development: **Flask**, **Spring Boot**, **Express.js**
-- RESTful API Design & Optimization
+- RESTful API Design
 
 ### 🛠️ Data Science & Analytics
 - Data Analysis & Visualization: **Pandas, NumPy, Matplotlib, Seaborn**
 - Feature Engineering & Model Evaluation
 - SQL, PostgreSQL, MongoDB, Pinecone (for vector databases)
-
-### 🔧 Tools & Deployment
-- **Git, GitHub, Postman**
-- Cloud & API Integrations (Firebase, Mailgun, Cloudinary)
-- CI/CD & Automated Scheduling (Spring Scheduler)
-
----
 
 ## 📌 Project Highlights
 
