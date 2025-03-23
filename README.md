@@ -26,12 +26,7 @@
 ### 📜 [Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/C-Spydo/icebreaker)  
 - Implemented **RAG-based** document retrieval using **Pinecone**.  
 - Automated **data ingestion pipeline** for continuously updated knowledge.  
-- Managed **chat memory** with **LangChain** for contextual responses.  
-
-### 💬 [Multi-Turn Conversational Chatbot](https://github.com/Naomi-Inyang/zetaAI-api.git)  
-- Designed a **persona-based** chatbot using **LangChain** and **LLMs**.  
-- Implemented **memory optimization** to retain contextual understanding.  
-- Engineered **prompt-based** dialogue flow to simulate unique personalities.  
+- Managed **chat memory** with **LangChain** for contextual responses.    
 
 ### 📈 [Stock Advice Chatbot](https://github.com/C-Spydo/stockyai.git)  
 - Built a **financial assistant** chatbot powered by **RAG** and **LangChain**.  
