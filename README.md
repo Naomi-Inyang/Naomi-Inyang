@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naomi Ibukun Inyang!
 
-🚀 Data-driven professional with expertise in **Data Science**, **Machine Learning**, and **Backend Development**. Passionate about leveraging AI-powered solutions to solve real-world challenges.
+🚀 Data-driven professional with expertise in **Data Science**, **Machine Learning**, **Agentic AI**, and **Backend Development**. Passionate about leveraging AI-powered solutions to solve real-world challenges.
 
 ---
 
